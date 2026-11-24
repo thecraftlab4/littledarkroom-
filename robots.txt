@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thecraftlab4.github.io/littledarkroom-/sitemap.xml

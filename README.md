@@ -2,6 +2,8 @@
 
 **A photobooth, Polaroid studio and scrapbook — developed right in your browser.**
 
+🔗 **Live:** https://thecraftlab4.github.io/littledarkroom-/
+
 Shoot or upload photos, drop them into retro photo strips and Polaroid frames, decorate them with stickers and washi tape, and keep them in scrapbook pages. No app, no sign-up, no uploads: your photos never leave your device.
 
 ---
